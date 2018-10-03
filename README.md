@@ -29,6 +29,7 @@ Tuesday 5:30PM UTC (alternating weeks to the main Community meeting on Wednesday
 - [YouTube](http://youtube.com/c/rustvideos)
 - [Community.rs blog](http://blog.community.rs/en-US/)
 - [Rust Blog](https://blog.rust-lang.org/)
+- [Read Rust](https://readrust.net/)
 
 
 ## Projects
